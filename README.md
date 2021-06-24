@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GM1957](https://github.com/GM1957)
 
-- 💬 Ask me about **everything backend**
-
 - ⚡ Fun fact **I can switch from talking about code to talking about bikes, real fast.**
 
 <p align="left">
