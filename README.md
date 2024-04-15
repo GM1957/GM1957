@@ -46,7 +46,6 @@ I am always excited about new techs in market.
 ![Tanmoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GM1957&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://stackoverflow.com/users/story/11700077"><img src="https://github-readme-stackoverflow.vercel.app/?userID=11700077&theme=dark" height="250"></a>
-|--|--|
 
 ## On-demand repository 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GM1957&repo=python-short-projects)](https://github.com/GM1957/python-short-projects)
