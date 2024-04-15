@@ -24,7 +24,7 @@ I am a Full Stack Developer with a huge love for Next.js, AWS, Fabric.js, React.
 
 I am the builder of [DevRook](https://devrook.gm1957.site), a social media web application with super powers. I Actively code and share posts on web technologies.
 
-I am always excited about new techs in market.
+I am always excited about new techs in the market.
 
 - :fireworks: I was part of some early stage startups and built products from scratch.
 - 🔭 I’m currently working on a no-code tool to help to take small scale businesses in new hrughts with features like never before.
@@ -36,7 +36,7 @@ I am always excited about new techs in market.
 - :partying_face: Fun fact: I keep fixing things with fevikwik.
 - :book: My Blogs - I keep writing about the challenges in development and complex implementations in a simple way. 
 - :wrench: Tools - VSCode, Postman, Git, CI/CD, Docker and the Mighty Terminal with Oh MyZSH..
-- :envelope_with_arrow: I often post updated in tweeter, [Tweets](https://twitter.com/GrandMaster1957) where you will find what i am learning and building.
+- :envelope_with_arrow: I often post updates in tweeter, [Tweets](https://twitter.com/GrandMaster1957) where you will find what i am learning and building.
 
 ### Numbers
 ![Tanmoy's Stats](https://github-readme-stats.vercel.app/api?username=GM1957&theme=darcula&show_icons=true&hide_border=true&count_private=true)
